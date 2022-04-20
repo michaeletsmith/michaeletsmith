@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaeletsmith
-- 👀 I’m interested in computer aided designa and manufacture
+- 👀 I’m interested in computer aided design and manufacture
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on computational design and CNC post-processors
 - 📫 How to reach me: michael@metastudio.co.za
